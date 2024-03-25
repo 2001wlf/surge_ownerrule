@@ -1,1 +1,1 @@
-DOMAIN-SUFFIX,cdn.*.com
+URL-REGEX,^https://cdn\..*\.com
