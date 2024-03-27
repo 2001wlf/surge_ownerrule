@@ -1,4 +1,4 @@
-URL-REGEX,https?://cdn.+\.com
+URL-REGEX,https?://cdn.*\..+\.com
 URL-REGEX,https?://vip\.kuaikan-cdn.+\.com
 DOMAIN-KEYWORD,v82u1l
 DOMAIN-KEYWORD,kin6c1
