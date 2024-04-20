@@ -1,5 +1,5 @@
-DOMAIN-WILDCARD,cdn.??????.com
-DOMAIN-KEYWORD,kuaikan-cdn
+DOMAIN-WILDCARD,cdn?.??????.com
+DOMAIN-WILDCARD,vip?.kuaikan-cdn.*.com
 URL-REGEX,https?://cdn.*\..+\.com
 URL-REGEX,https?://vip\.kuaikan-cdn.+\.com
 DOMAIN-KEYWORD,v82u1l
