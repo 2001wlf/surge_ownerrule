@@ -1,5 +1,7 @@
 DOMAIN-WILDCARD,cdn?.??????.com
+DOMAIN-WILDCARD,cdn.??????.com
 DOMAIN-WILDCARD,vip?.kuaikan-cdn*.com
+DOMAIN-WILDCARD,vip.kuaikan-cdn*.com
 DOMAIN-WILDCARD,v.cdn????.com
 URL-REGEX,https?://v\.cdn.+\.com
 URL-REGEX,https?://cdn.*\..+\.com
