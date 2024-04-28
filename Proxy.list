@@ -3,6 +3,6 @@ DOMAIN-KEYWORD,rsg
 PROCESS-NAME,Surge
 IP-CIDR,154.12.33.115/32,no-resolve
 DOMAIN-SUFFIX,friezamenu.com
-IP-CIDR,52.139.168.0/24,no-resolve
-IP-CIDR,52.139.169.0/24,no-resolve
+IP-CIDR,52.139.168.0/23,no-resolve
+IP-CIDR,192.81.241.190/31,no-resolve
 DOMAIN-SUFFIX,xljsci.com
