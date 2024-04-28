@@ -1,6 +1,7 @@
 DOMAIN-KEYWORD,rockstargames
 DOMAIN-KEYWORD,rsg
 PROCESS-NAME,Surge
+PROCESS-NAME,Internal
 IP-CIDR,154.12.33.115/32,no-resolve
 DOMAIN-SUFFIX,friezamenu.com
 IP-CIDR,52.139.168.0/24,no-resolve
