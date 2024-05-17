@@ -1,11 +1,7 @@
-DOMAIN-WILDCARD,cdn?.??????.com
-DOMAIN-WILDCARD,cdn.??????.com
+DOMAIN-WILDCARD,cdnb.??????.com
 DOMAIN-WILDCARD,vip?.kuaikan-cdn?.com
 DOMAIN-WILDCARD,vip.kuaikan-cdn?.com
 DOMAIN-WILDCARD,v.cdn????.com
-URL-REGEX,https?://v\.cdn.+\.com
-URL-REGEX,https?://cdn.*\..+\.com
-URL-REGEX,https?://vip\.kuaikan-cdn.+\.com
-DOMAIN-KEYWORD,v82u1l
-DOMAIN-KEYWORD,kin6c1
-DOMAIN-KEYWORD,iz8qkg
+DOMAIN-SUFFIX,v82u1l.com
+DOMAIN-SUFFIX,kin6c1.com
+DOMAIN-SUFFIX,iz8qkg.com
