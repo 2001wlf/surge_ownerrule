@@ -10,3 +10,4 @@ DOMAIN-WILDCARD,vip.kuaikan-cdn?.com
 DOMAIN-WILDCARD,vip.kuaikan-play?.com
 DOMAIN-WILDCARD,vip?.kuaikan-play?.com
 DOMAIN-WILDCARD,v.cdn????.com
+DOMAIN-WILDCARD,cdn.polyfill.io
